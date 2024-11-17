@@ -15,8 +15,9 @@
 | 점심 뭐 먹지 Step2 | [바로가기](https://github.com/woowacourse/javascript-lunch/pull/168)    | -        |[하루](https://github.com/365kim) |
 | 영화 리뷰 Step1 | [바로가기](https://github.com/woowacourse/javascript-movie-review/pull/135)    | [올리(이예진)](https://github.com/ImxYJL)       |[호프](https://github.com/moonheekim0118) |
 | 영화 리뷰 Step2 | [바로가기](https://github.com/woowacourse/javascript-movie-review/pull/173)  | -       |[호프](https://github.com/moonheekim0118) |
-
 <br/>
+
+[레벨1 글쓰기](https://github.com/useon/woowa-writing/blob/useon/README.md)
 
 ## Level 2
 
@@ -30,15 +31,18 @@
 | 리액트 장바구니 Step2 | [바로가기](https://github.com/woowacourse/react-shopping-cart/pull/315)     | -        |[카일](https://github.com/igy95) |
 | 리액트 상품목록 Step1 | [바로가기](https://github.com/woowacourse/react-shopping-products/pull/18)     | [마스터위(명재위)](https://github.com/Jaymyong66)         |[블링](https://github.com/uk960214) |
 | 리액트 상품목록 Step2 | [바로가기](https://github.com/woowacourse/react-shopping-products/pull/74)     | - |[블링](https://github.com/uk960214) |
-
 <br/>
+
+[레벨2 글쓰기](https://github.com/useon/woowa-writing/blob/level2/level2.md)
 
 ## Level 3
 Team Project
 
-땅콩: https://github.com/woowacourse-teams/2024-ddangkong
+[땅콩 깃허브](https://github.com/woowacourse-teams/2024-ddangkong)
 
-<br/>
+[땅콩 서비스](https://ddangkong.kr/)
+
+[레벨3 글쓰기](https://github.com/useon/woowa-writing/blob/level3/level3.md)
 
 ## Level 4
 | **MISSION**         | **PR**                                | **PAIR** | **REVIEWER** |
