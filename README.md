@@ -50,6 +50,10 @@ Team Project
 
 <br/>
 
-### techotalk 
-**주제 - 땅콩의 스크린리더 개선기**   
-추후 유튜브 업로드 예정
+### Techotalk 
+**주제 - 땅콩의 스크린리더 개선기**
+https://www.youtube.com/watch?v=vjBltTTTpBA&t=416s
+
+### Technical Writing
+**주제 - 땅콩의 스크린리더 개선기**
+https://github.com/useon/woowa-writing/blob/last/technical.md
